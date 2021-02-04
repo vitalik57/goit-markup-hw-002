@@ -4,18 +4,20 @@ body {
   color: #000;
   background: #e5e5e5;
 }
-.site-nav .link {
+.site-nav {
   color: #212121;
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
-  color: #2196f3;
+.site-nav .link.current {
+  color: 2196f3;
 }
 .logo {
   color: #2196f3;
   font-family: Raleway;
 }
 .button {
-  color: FFFFFF;
+  color: aliceblue;
   background: #2196f3;
+}
+.link a {
+  color: 2196f3;
 }
