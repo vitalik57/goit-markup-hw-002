@@ -8,7 +8,6 @@ body {
 .logo {
   color: #2196f3;
   font-family: Raleway;
-  font-style: normal;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
@@ -32,7 +31,7 @@ body {
   line-height: 16px;
   letter-spacing: 0.02em;
 }
-h3 {
+.bubluk {
   font-weight: bold;
   font-size: 14px;
   line-height: 16px;
@@ -46,14 +45,6 @@ h3 {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #757575;
-}
-h2 {
-  font-size: 36px;
-  line-height: 42px;
-  text-align: center;
-  letter-spacing: 0.03em;
-
-  color: #212121;
 }
 .web {
   font-weight: 500;
@@ -71,13 +62,7 @@ h2 {
 
   color: #757575;
 }
-h4 {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
-  text-align: center;
-  letter-spacing: 0.03em;
-}
+
 .comment {
   font-size: 16px;
   line-height: 19px;
@@ -90,4 +75,50 @@ address {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #ffffff;
+}
+.flix {
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+.box {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.flix {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.information {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.cotent {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
 }
