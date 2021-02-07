@@ -1,13 +1,13 @@
 body {
   list-style: none;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   color: #212121;
   font-style: normal;
   font-weight: normal;
 }
 .logo {
   color: #2196f3;
-  font-family: Raleway;
+  font-family: "Releway", sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
