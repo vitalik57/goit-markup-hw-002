@@ -1,13 +1,13 @@
 body {
   list-style: none;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto;
   color: #212121;
   font-style: normal;
   font-weight: normal;
 }
 .logo {
-  color: #2196f3;
-  font-family: "Releway", sans-serif;
+  color: black;
+  font-family: Raleway;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
@@ -22,7 +22,7 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
-.link {
+.link-teitle {
   color: 2196f3;
 }
 .site {
@@ -121,4 +121,19 @@ address {
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
+}
+span {
+  color: #2196f3;
+}
+
+.flix-box {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
 }
