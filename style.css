@@ -13,19 +13,22 @@ body {
   line-height: 31px;
 }
 .button {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 26px;
-
+  color: aliceblue;
+  background: #2196f3;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
   text-align: center;
-  letter-spacing: 0.03em;
-
-  color: #212121;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 .link-teitle {
-  color: 2196f3;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #2196f3;
 }
 .site {
   font-weight: 500;
@@ -90,6 +93,7 @@ address {
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
+  background-color: #2f303a;
 
   text-align: center;
   letter-spacing: 0.06em;
@@ -97,15 +101,7 @@ address {
 
   color: #ffffff;
 }
-.flix {
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 36px;
 
-  letter-spacing: 0.06em;
-
-  color: #212121;
-}
 .information {
   font-weight: normal;
   font-size: 16px;
@@ -139,13 +135,17 @@ span {
 
   color: #212121;
 }
-.button-main {
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 30px;
-
+.site-nav {
   display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.06em;
+}
+.hero {
+  display: flex;
+}
+.link-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #212121;
 }
