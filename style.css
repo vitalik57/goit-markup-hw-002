@@ -1,13 +1,13 @@
 body {
   list-style: none;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   color: #212121;
   font-style: normal;
   font-weight: normal;
 }
 .logo {
   color: black;
-  font-family: "Relawey", sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
@@ -127,143 +127,13 @@ span {
 }
 
 .flix-box {
-  body {
-    list-style: none;
-    font-family: "Roboto", sa;
-    color: #212121;
-    font-style: normal;
-    font-weight: normal;
-  }
-  .logo {
-    color: black;
-    font-family: "Raleway", sans-serif;
-    font-weight: bold;
-    font-size: 26px;
-    line-height: 31px;
-  }
-  .button {
-    color: aliceblue;
-    background: #2196f3;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-  }
-  .link-teitle {
-    color: 2196f3;
-  }
-  .site {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
-  }
-  .bubluk {
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
 
-    color: #212121;
-  }
-  .text {
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: #757575;
-  }
-  .web {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
+  letter-spacing: 0.06em;
 
-    color: #2196f3;
-  }
-  .number {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
-
-    color: #757575;
-  }
-
-  .comment {
-    font-size: 16px;
-    line-height: 19px;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: #757575;
-  }
-  address {
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: #ffffff;
-  }
-  .flix {
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
-    letter-spacing: 0.03em;
-
-    color: #212121;
-  }
-  .box {
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-
-    color: #ffffff;
-  }
-  .flix {
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 36px;
-
-    letter-spacing: 0.06em;
-
-    color: #212121;
-  }
-  .information {
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 30px;
-
-    letter-spacing: 0.03em;
-
-    color: #757575;
-  }
-  .cotent {
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-
-    letter-spacing: 0.03em;
-
-    color: rgba(255, 255, 255, 0.6);
-  }
-  span {
-    color: #2196f3;
-  }
-
-  .flix-box {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 36px;
-
-    letter-spacing: 0.06em;
-
-    color: #212121;
-  }
+  color: #212121;
 }
